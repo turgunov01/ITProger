@@ -5,7 +5,7 @@ import Swiper from "./parts/Swiper.vue";
 <template>
   <header class="header">
     <div class="container">
-      <h2 class="header__logo">ITProger</h2>
+      <h2 class="header__logo">ITCreators</h2>
       <nav class="header__nav">
         <ul class="header__list">
           <li class="header__item">
