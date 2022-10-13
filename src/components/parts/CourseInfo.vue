@@ -39,16 +39,18 @@ export default {
             (Hypertext Markup Language), CSS (Cascading Style Sheets), and
             JavaScript. There are, however, a number of other programs used to
             “manage” or facilitate the construction of sites that would
-            otherwise have to be done “from scratch” by writing code. A number
-            of content management systems (CMS) fall into this category,
-            including WordPress, Joomla!, Drupal, TYPO3, and Adobe Experience
-            Manager, among others.
+            otherwise have to be done “from scratch” by writing code.
           </p>
         </div>
-        <button class="touchDirection" @click="touchDirect">More</button>
-        <button class="touchSupport" v-if="this.buttonName === 'Not Found 404'">
-          Support
-        </button>
+        <div class="butttons">
+          <button class="touchDirection" @click="touchDirect">More</button>
+          <button
+            class="touchSupport"
+            v-if="this.buttonName === 'Not Found 404'"
+          >
+            Support
+          </button>
+        </div>
       </div>
     </div>
   </section>
@@ -86,11 +88,10 @@ export default {
 }
 
 .course__info-about {
-  font-size: 1.6rem;
+  font-size: 1.4rem;
   line-height: 2.2rem;
   width: 95%;
   color: white;
-  margin-bottom: 2rem;
 }
 
 .course__info-title {
@@ -101,6 +102,7 @@ button {
   background: unset;
   border: 2px white solid;
   width: 100%;
+  min-width: 125px;
   max-width: 125px;
   border-radius: 5px;
   padding: 1rem 2rem;
@@ -108,6 +110,14 @@ button {
   color: white;
   margin-right: 1rem;
   transition: 300ms;
+}
+
+.butttons {
+  position: absolute;
+  bottom: 0;
+  margin: 2rem 0;
+  display: flex;
+  align-items: center;
 }
 
 button:hover {
