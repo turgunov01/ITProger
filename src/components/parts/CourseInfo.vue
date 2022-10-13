@@ -100,16 +100,17 @@ export default {
 
 button {
   background: unset;
-  border: 2px white solid;
+  border: .2rem white solid;
   width: 100%;
-  min-width: 125px;
-  max-width: 125px;
-  border-radius: 5px;
+  min-width: 12.5rem;
+  max-width: 12.5rem;
+  border-radius: .5rem;
   padding: 1rem 2rem;
   cursor: pointer;
   color: white;
   margin-right: 1rem;
   transition: 300ms;
+  font-size: 1.6rem;
 }
 
 .butttons {
