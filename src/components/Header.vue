@@ -21,7 +21,9 @@ import Swiper from "./parts/Swiper.vue";
       </nav>
     </div>
   </header>
-  <Swiper />
+  <div class="swiper__container container">
+    <Swiper />
+  </div>
 </template>
 <script>
 export default {
@@ -32,3 +34,9 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+.header {
+  z-index: 999;
+}
+</style>

@@ -4,8 +4,6 @@ import Main from "./components/Main.vue";
 </script>
 
 <template>
-  <header>
-    <Header />
-    <Main />
-  </header>
+  <Header />
+  <Main />
 </template>

@@ -2,7 +2,6 @@
 export default {
   data() {
     return {
-      photos: [],
       touchAmount: 0,
     };
   },
@@ -10,7 +9,7 @@ export default {
     touchCount() {
       this.touchAmount += 1;
       console.log(
-        `${this.touchAmount} ${
+        `${this.touchAmount}${
           this.touchAmount === 1
             ? "st"
             : this.touchAmount === 2
@@ -18,7 +17,7 @@ export default {
             : this.touchAmount === 3
             ? "rd"
             : "th"
-        }`
+        } touch...`
       );
     },
   },
@@ -26,19 +25,19 @@ export default {
 </script>
 
 <template>
-  <main class="main">
     <section class="gallery">
-      <div class="container"  @click="touchCount">
-        asdf
-        asdf
-        asdf
-        asdf
+      <div class="container" @click="touchCount">
         <swiper class="swiper mySwiper2">
-          <swiper-slide 
+          <swiper-slide
+            class="swiper-slide swiper__slide swiper-photo-slide"
+          ></swiper-slide>
+          <swiper-slide
+            class="swiper-slide swiper__slide swiper-photo-slide"
+          ></swiper-slide>
+          <swiper-slide
             class="swiper-slide swiper__slide swiper-photo-slide"
           ></swiper-slide>
         </swiper>
       </div>
     </section>
-  </main>
 </template>

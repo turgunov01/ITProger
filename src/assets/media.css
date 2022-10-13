@@ -1,0 +1,363 @@
+@media (min-width: 1700px) {
+    html {
+        font-size: calc(17px / 1.5);
+    }
+}
+
+@media (min-width: 1800px) {
+    html {
+        font-size: calc(18px / 1.5);
+    }
+}
+
+@media (min-width: 1900px) {
+    html {
+        font-size: calc(19px / 1.5);
+    }
+}
+
+@media (min-width: 2000px) {
+    html {
+        font-size: calc(20px / 1.5);
+    }
+    .container {
+        width: 100%;
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 2100px) {
+    html {
+        font-size: calc(21px / 1.5);
+    }
+}
+
+@media (min-width: 2200px) {
+    html {
+        font-size: calc(22px / 1.5);
+    }
+}
+
+@media (min-width: 2300px) {
+    html {
+        font-size: calc(23px / 1.5);
+    }
+}
+
+@media (min-width: 2400px) {
+    html {
+        font-size: calc(24px / 1.5);
+    }
+}
+
+@media (min-width: 2500px) {
+    html {
+        font-size: calc(25px / 1.5);
+    }
+}
+
+@media (min-width: 2600px) {
+    html {
+        font-size: calc(26px / 1.5);
+    }
+}
+
+@media (min-width: 2700px) {
+    html {
+        font-size: calc(27px / 1.5);
+    }
+}
+
+@media (min-width: 2800px) {
+    html {
+        font-size: calc(28px / 1.5);
+    }
+}
+
+@media (min-width: 2900px) {
+    html {
+        font-size: calc(29px / 1.5);
+    }
+}
+
+@media (min-width: 3000px) {
+    html {
+        font-size: calc(30px / 1.5);
+    }
+}
+
+@media (min-width: 3100px) {
+    html {
+        font-size: calc(31px / 1.5);
+    }
+}
+
+@media (min-width: 3200px) {
+    html {
+        font-size: calc(32px / 1.5);
+    }
+}
+
+@media (min-width: 3300px) {
+    html {
+        font-size: calc(33px / 1.5);
+    }
+}
+
+@media (min-width: 3400px) {
+    html {
+        font-size: calc(34px / 1.5);
+    }
+}
+
+@media (min-width: 3500px) {
+    html {
+        font-size: calc(35px / 1.5);
+    }
+}
+
+@media (min-width: 3600px) {
+    html {
+        font-size: calc(36px / 1.5);
+    }
+}
+
+@media (min-width: 3700px) {
+    html {
+        font-size: calc(37px / 1.5);
+    }
+}
+
+@media (min-width: 3800px) {
+    html {
+        font-size: calc(38px / 1.5);
+    }
+}
+
+@media (min-width: 3900px) {
+    html {
+        font-size: calc(39px / 1.5);
+    }
+}
+
+@media (min-width: 4000px) {
+    html {
+        font-size: calc(40px / 1.5);
+    }
+}
+
+@media (min-width: 4100px) {
+    html {
+        font-size: calc(41px / 1.5);
+    }
+}
+
+@media (min-width: 4200px) {
+    html {
+        font-size: calc(42px / 1.5);
+    }
+}
+
+@media (min-width: 4300px) {
+    html {
+        font-size: calc(43px / 1.5);
+    }
+}
+
+@media (min-width: 4400px) {
+    html {
+        font-size: calc(44px / 1.5);
+    }
+}
+
+@media (min-width: 4500px) {
+    html {
+        font-size: calc(45px / 1.5);
+    }
+}
+
+@media (min-width: 4600px) {
+    html {
+        font-size: calc(46px / 1.5);
+    }
+}
+
+@media (min-width: 4700px) {
+    html {
+        font-size: calc(47px / 1.5);
+    }
+}
+
+@media (min-width: 4800px) {
+    html {
+        font-size: calc(48px / 1.5);
+    }
+}
+
+@media (min-width: 4900px) {
+    html {
+        font-size: calc(49px / 1.5);
+    }
+}
+
+@media (min-width: 5000px) {
+    html {
+        font-size: calc(50px / 1.5);
+    }
+}
+
+@media (min-width: 5100px) {
+    html {
+        font-size: calc(51px / 1.5);
+    }
+}
+
+@media (min-width: 5200px) {
+    html {
+        font-size: calc(52px / 1.5);
+    }
+}
+
+@media (min-width: 5300px) {
+    html {
+        font-size: calc(53px / 1.5);
+    }
+}
+
+@media (min-width: 5400px) {
+    html {
+        font-size: calc(54px / 1.5);
+    }
+}
+
+@media (min-width: 5500px) {
+    html {
+        font-size: calc(55px / 1.5);
+    }
+}
+
+@media (min-width: 5600px) {
+    html {
+        font-size: calc(56px / 1.5);
+    }
+}
+
+@media (min-width: 5700px) {
+    html {
+        font-size: calc(57px / 1.5);
+    }
+}
+
+@media (min-width: 5800px) {
+    html {
+        font-size: calc(58px / 1.5);
+    }
+}
+
+@media (min-width: 5900px) {
+    html {
+        font-size: calc(59px / 1.5);
+    }
+}
+
+@media (min-width: 6000px) {
+    html {
+        font-size: calc(60px / 1.5);
+    }
+}
+
+@media (min-width: 6100px) {
+    html {
+        font-size: calc(61px / 1.5);
+    }
+}
+
+@media (min-width: 6200px) {
+    html {
+        font-size: calc(62px / 1.5);
+    }
+}
+
+@media (min-width: 6300px) {
+    html {
+        font-size: calc(63px / 1.5);
+    }
+}
+
+@media (min-width: 6400px) {
+    html {
+        font-size: calc(64px / 1.5);
+    }
+}
+
+@media (min-width: 6500px) {
+    html {
+        font-size: calc(65px / 1.5);
+    }
+}
+
+@media (min-width: 6600px) {
+    html {
+        font-size: calc(66px / 1.5);
+    }
+}
+
+@media (min-width: 6700px) {
+    html {
+        font-size: calc(67px / 1.5);
+    }
+}
+
+@media (min-width: 6800px) {
+    html {
+        font-size: calc(68px / 1.5);
+    }
+}
+
+@media (min-width: 6900px) {
+    html {
+        font-size: calc(69px / 1.5);
+    }
+}
+
+@media (min-width: 7000px) {
+    html {
+        font-size: calc(70px / 1.5);
+    }
+}
+
+@media (min-width: 7100px) {
+    html {
+        font-size: calc(71px / 1.5);
+    }
+}
+
+@media (min-width: 7200px) {
+    html {
+        font-size: calc(72px / 1.5);
+    }
+}
+
+@media (min-width: 7300px) {
+    html {
+        font-size: calc(73px / 1.5);
+    }
+}
+
+@media (min-width: 7400px) {
+    html {
+        font-size: calc(74px / 1.5);
+    }
+}
+
+@media (min-width: 7500px) {
+    html {
+        font-size: calc(75px / 1.5);
+    }
+}
+
+@media (min-width: 7600px) {
+    html {
+        font-size: calc(76px / 1.5);
+    }
+}
